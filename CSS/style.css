@@ -2,6 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
     color: #0A143A;
+    background: #256eeb; /* фон */
 }
 
 .header {
@@ -86,4 +87,5 @@ body {
 
 .search-button-text {
     margin-left: 5px;
+
 }
